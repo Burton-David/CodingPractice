@@ -1,3 +1,5 @@
+This is no longer an active project I am working on.  It is being kept up for later integration with other portfolio projects.  
+
 # CodingPractice
 Coding challenges I've encountered in interviews, with solutions and explanations.  
 
